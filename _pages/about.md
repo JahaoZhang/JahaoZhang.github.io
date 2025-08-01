@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiahao Zhang(张佳豪) - Homepage"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
